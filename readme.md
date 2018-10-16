@@ -21,6 +21,7 @@ Clone this repo and you know the drill ;)
 If you don't here it is:
 
 `composer install` / `composer update`
+
 `npm install`
 
-You're all set to go.
+You're all set happy coding.
